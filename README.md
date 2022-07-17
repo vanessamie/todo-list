@@ -36,7 +36,18 @@ To Do List, criado durante Trilha Front-End, curso:
 - export default;
 - import;
 - IIFE (**Immediately Invoked Function Expression** ou “Função de Invocação Imediata”);
-- Same Origin Police e CORS.
+- Same Origin Police e CORS;
+- datetime-local;
+- Biblioteca moment();
+- Desestruturar objetos;
+- API de armazenamento do navegador;
+- .setItem();
+- JSON.stringify();
+- .push();
+- sessionStorage;
+- localStorage;
+- JSON.parse();
+- 
 
 ##
 
@@ -59,4 +70,10 @@ https://www.alura.com.br/artigos/capturando-valor-do-input-introducao-a-seletore
 
 - Como utilizar o terminal integrado do Visual Studio Code
 https://www.alura.com.br/artigos/como-utilizar-terminal-integrado-visual-studio-code
+
+- Desestruturação JavaScript
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+
+- Introdução às Web APIs
+https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Client-side_web_APIs/Introduction
 
