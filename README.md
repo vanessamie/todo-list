@@ -1,7 +1,8 @@
 # To Do List
 
-To Do List, criado durante Trilha Front-End, curso:
-- JS na Web: Manipule o D.O.M. com JavaScript.
+To Do List, criado durante Trilha Front-End, cursos:
+- JS na Web: Manipule o D.O.M. com JavaScript;
+- JS na Web: Armazenando dados no navegador.
 
 ##
 
@@ -28,6 +29,7 @@ To Do List, criado durante Trilha Front-End, curso:
 - .appendChild();
 - .addEventListener();
 - template strings;
+- template literals;
 - .innerText;
 - .target;
 - .parentElement;
@@ -37,6 +39,7 @@ To Do List, criado durante Trilha Front-End, curso:
 - import;
 - IIFE (**Immediately Invoked Function Expression** ou “Função de Invocação Imediata”);
 - Same Origin Police e CORS;
+- type="module";
 - datetime-local;
 - Biblioteca moment();
 - Desestruturar objetos;
@@ -47,7 +50,13 @@ To Do List, criado durante Trilha Front-End, curso:
 - sessionStorage;
 - localStorage;
 - JSON.parse();
-- 
+- spread operator;
+- .diff();
+- .indexOf();
+- .format();
+- .sort();
+- ! (operador de negação);
+- splice().
 
 ##
 
